@@ -1,0 +1,17 @@
+{
+  "name": "autobindthis",
+  "keywords": ["bind", "auto", "autobind", "auto-bind", "this", "methods", "binding", "react", "self", "class", "method", "prototype", "function", "component", "automatically"],
+  "version": "1.0.9",
+  "description": "Binds methods to their class instance automagically",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "jest --watchAll"
+  },
+  "author": "Evangelos Zotos",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  },
+  "dependencies": {}
+}
